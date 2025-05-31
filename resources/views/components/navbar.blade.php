@@ -70,7 +70,6 @@
         </div>
       </div>
     </div>
-=-0987654   qwerty7u8i90-/-+
     <!-- Mobile menu, show/hide based on menu state. -->
     <div x-show="isOpen" class="md:hidden" id="mobile-menu">
       <div class="space-y-1 px-2 pt-2 pb-3 sm:px-3">
